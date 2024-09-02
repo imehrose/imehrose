@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 💻 Software Engineer | JavaScript | TypeScript | React | Next.js | Frontend Development
+
 Welcome to my GitHub profile! I'm a Senior Software Engineer with 4+ years of experience in frontend development, specializing in JavaScript, TypeScript, and React. Currently, I'm contributing to innovative web solutions at Kodesinc.
 
 🛠️ Technologies & Tools
