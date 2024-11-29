@@ -1,9 +1,10 @@
 ## Hi there 👋
-![Gif](./assets/animations/manDev.gif)
+![Gif](https://lottie.host/ba6f9ba5-0383-439e-bfda-6ab60bea03c3/OtWpnA2Hsx.lottie)
 
 💻 Software Engineer | JavaScript | TypeScript | React | Next.js | Frontend Development
 
-Welcome to my GitHub profile! As a software engineer, I develop cutting-edge web applications using JavaScript, TypeScript, and React. I have a solid 4-year track record in engineering high-performance, user-centric frontend solutions that adhere to best practices and industry standards.
+Welcome to my GitHub profile! 
+As a software engineer, I develop cutting-edge web applications using JavaScript, TypeScript, and React. I have a solid 4-year track record in engineering high-performance, user-centric frontend solutions that adhere to best practices and industry standards.
 
 🛠️ Technologies & Tools
 Languages: JavaScript, TypeScript, HTML, CSS
@@ -26,6 +27,7 @@ I'm passionate about collaborating with like-minded professionals to shape the d
 
 📫 Let's Connect
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mehrose-babar/)
+Hire me: [Upwork Profile](https://www.upwork.com/freelancers/~014d077301beaae3d5)
 
 
 
