@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Excited](./assets/animations/webDev.webm)
+![Gif](./assets/animations/webDev.gif)
 
 💻 Software Engineer | JavaScript | TypeScript | React | Next.js | Frontend Development
 
