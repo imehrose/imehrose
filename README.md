@@ -1,8 +1,9 @@
 ## Hi there 👋
+![Excited](./assets/animations/webDev.webm)
 
 💻 Software Engineer | JavaScript | TypeScript | React | Next.js | Frontend Development
 
-Welcome to my GitHub profile! I'm a Senior Software Engineer with 4+ years of experience in frontend development, specializing in JavaScript, TypeScript, and React. Currently, I'm contributing to innovative web solutions at Kodesinc.
+Welcome to my GitHub profile! As a software engineer, I develop cutting-edge web applications using JavaScript, TypeScript, and React. I have a solid 4-year track record in engineering high-performance, user-centric frontend solutions that adhere to best practices and industry standards.
 
 🛠️ Technologies & Tools
 Languages: JavaScript, TypeScript, HTML, CSS
@@ -19,13 +20,12 @@ Safari Extension: Developing a browser extension with light/dark mode support.
 
 📚 Education
 Bachelor of Science in Software Engineering (BSSE)
-Lahore Leads University
 
 👨‍💻 Open to Collaborations
 I'm passionate about collaborating with like-minded professionals to shape the digital world through elegant and efficient code. If you need a skilled JavaScript, TypeScript, React, or UI Developer, let's connect!
 
 📫 Let's Connect
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mehrose-babar/)
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mehrose-babar/)
 
 
 
