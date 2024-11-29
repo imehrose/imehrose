@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Gif](https://lottie.host/ba6f9ba5-0383-439e-bfda-6ab60bea03c3/OtWpnA2Hsx.lottie)
+![Gif](./assets/animations/manDev.gif)
 
 💻 Software Engineer | JavaScript | TypeScript | React | Next.js | Frontend Development
 
