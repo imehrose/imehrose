@@ -28,7 +28,7 @@ If you’re looking for a skilled JavaScript, TypeScript, React, or UI Developer
 
 
 📫 Let's Connect
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mehrose-babar/)
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/imehrose/)
 Hire me: [Upwork Profile](https://www.upwork.com/freelancers/~014d077301beaae3d5)
 Portfolio: [Portfolio](https://imehrose.framer.website/)
 
