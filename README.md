@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imehrose&label=Profile%20views&color=0e75b6&style=flat%22 alt="imehrose" /> </p>
+
 ![Gif](./assets/animations/manDev.gif)
 
 💻 Software Engineer | JavaScript | TypeScript | React | Next.js | Frontend Development
@@ -32,6 +33,13 @@ LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/imehrose/)
 Hire me: [Upwork Profile](https://www.upwork.com/freelancers/~014d077301beaae3d5)
 Portfolio: [Portfolio](https://imehrose.framer.website/)
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imehrose&show_icons=true&locale=en&layout=compact%22 alt="imehrose" /></p>
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imehrose&show_icons=true&locale=en" alt="imehrose" /></p>
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imehrose&" alt="imehrose" /></p>
+ 
 
 
 
