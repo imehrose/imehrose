@@ -29,7 +29,7 @@ I’m always excited to collaborate with like-minded professionals who value cle
 If you’re looking for a skilled JavaScript, TypeScript, React, or UI Developer — let’s connect!
 
 
-📫 Let's Connect
+📫 Let's Connect <br />
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/imehrose/)
 Hire me: [Upwork Profile](https://www.upwork.com/freelancers/~014d077301beaae3d5)
 Portfolio: [Portfolio](https://imehrose.framer.website/)
