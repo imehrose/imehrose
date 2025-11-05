@@ -1,6 +1,7 @@
-## Hi there 👋 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imehrose&label=Profile%20views&color=0e75b6&style=flat%22 alt="imehrose" /> </p>
-
+## Hi there 👋
 ![Gif](./assets/animations/manDev.gif)
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=imehrose&label=Profile%20views&color=0e75b6&style=flat%22 alt="imehrose" /></p>
 
 💻 Software Engineer | JavaScript | TypeScript | React | Next.js | Frontend Development
 
