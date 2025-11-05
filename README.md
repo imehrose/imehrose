@@ -39,7 +39,7 @@ Portfolio: [Portfolio](https://imehrose.framer.website/)
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imehrose&show_icons=true&locale=en" alt="imehrose" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imehrose&" alt="belawalumer" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imehrose&" alt="imehrose" /></p> -->
  
 
 
