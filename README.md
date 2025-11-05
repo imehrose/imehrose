@@ -30,9 +30,9 @@ If you’re looking for a skilled JavaScript, TypeScript, React, or UI Developer
 
 
 📫 Let's Connect <br />
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/imehrose/)
-Hire me: [Upwork Profile](https://www.upwork.com/freelancers/~014d077301beaae3d5)
-Portfolio: [Portfolio](https://imehrose.framer.website/)
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/imehrose/) <br />
+Hire me: [Upwork Profile](https://www.upwork.com/freelancers/~014d077301beaae3d5) <br />
+Portfolio: [Portfolio](https://imehrose.framer.website/) <br />
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imehrose&show_icons=true&locale=en&layout=compact%22" alt="imehrose" /></p> -->
