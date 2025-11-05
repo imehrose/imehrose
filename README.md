@@ -35,7 +35,7 @@ Hire me: [Upwork Profile](https://www.upwork.com/freelancers/~014d077301beaae3d5
 Portfolio: [Portfolio](https://imehrose.framer.website/)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imehrose&show_icons=true&locale=en&layout=compact%22" alt="imehrose" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imehrose&show_icons=true&locale=en&layout=compact%22" alt="imehrose" /></p> -->
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imehrose&show_icons=true&locale=en" alt="imehrose" /></p>
  
