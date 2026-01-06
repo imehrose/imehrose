@@ -3,31 +3,29 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=imehrose&label=Profile%20views&color=0e75b6&style=flat%22" alt="imehrose" /></p>
 
-💻 Software Engineer | JavaScript | TypeScript | React | Next.js | Frontend Development
+💻 Senior Software Engineer | Frontend-Focused MERN Developer | High-Performance & Scalable App Development | Open to Global Opportunities
 
 Welcome to my GitHub! 
-I’m a Software Engineer with over 4 years of experience building high-performance, user-centric web applications. My work focuses on JavaScript, TypeScript, and the React ecosystem, delivering scalable solutions that align with industry best practices and modern standards.
+I’m a Senior Software Engineer with hands-on experience building modern, scalable, and user-focused web applications using (MERN) React, Next.js, Node.js, Express, and MongoDB.
 
-🛠️ Technologies & Tools
-Languages: JavaScript, TypeScript, HTML, CSS
-Frameworks: React, Next.js
-Tools: Redux, Redux Toolkit, Framer Motion, Antd, React Router, Webpack
-Other: Chrome/Safari Extensions, REST APIs, GraphQL
+I specialise in developing clean, optimised, and production ready solutions from interactive frontends to robust backend architectures for clients across UAE, Qatar, and remote markets.
 
-🚀 What I Do
-I specialize in crafting dynamic, interactive components and scalable frontend architectures with a strong focus on user experience.
+What I bring:
+• High-performance React & Next.js interfaces
+• Scalable Node.js & Express APIs
+• Secure authentication (JWT, RBAC, multi-tenant apps)
+• MongoDB database design & optimization
+• CI/CD workflows, code quality, and best practices
 
-🌱 Currently Working On
-Next.js Project: Enhancing a server-side application with complex pagination and state management.
-Safari Extension: Developing a browser extension with light/dark mode support.
+Whether it's building from scratch or improving an existing system, I focus on performance, reliability, and business value not just shipping code.
 
-📚 Education
-Bachelor of Science in Software Engineering (BSSE)
+👨‍💻 Open to Collaborations: <br />
+✔ Full-time opportunities <br />
+✔ Contract & freelance projects <br />
+✔ SaaS product development <br />
+✔ Collaborations with engineering teams <br />
 
-👨‍💻 Open to Collaborations
-I’m always excited to collaborate with like-minded professionals who value clean, elegant, and efficient code.
-If you’re looking for a skilled JavaScript, TypeScript, React, or UI Developer — let’s connect!
-
+Let’s connect if you’re looking to build something impactful.
 
 📫 Let's Connect <br />
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/imehrose/) <br />
@@ -37,7 +35,7 @@ Portfolio: [Portfolio](https://imehrose.framer.website/) <br />
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imehrose&show_icons=true&locale=en&layout=compact%22" alt="imehrose" /></p> -->
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imehrose&show_icons=true&locale=en" alt="imehrose" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imehrose&show_icons=true&locale=en" alt="imehrose" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imehrose&" alt="imehrose" /></p> -->
  
