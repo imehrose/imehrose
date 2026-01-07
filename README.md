@@ -10,12 +10,12 @@ I’m a Senior Software Engineer with hands-on experience building modern, scala
 
 I specialise in developing clean, optimised, and production ready solutions from interactive frontends to robust backend architectures for clients across UAE, Qatar, and remote markets.
 
-What I bring:
-• High-performance React & Next.js interfaces
-• Scalable Node.js & Express APIs
-• Secure authentication (JWT, RBAC, multi-tenant apps)
-• MongoDB database design & optimization
-• CI/CD workflows, code quality, and best practices
+What I bring: <br />
+• High-performance React & Next.js interfaces <br />
+• Scalable Node.js & Express APIs <br />
+• Secure authentication (JWT, RBAC, multi-tenant apps) <br />
+• MongoDB database design & optimization <br />
+• CI/CD workflows, code quality, and best practices <br />
 
 Whether it's building from scratch or improving an existing system, I focus on performance, reliability, and business value not just shipping code.
 
