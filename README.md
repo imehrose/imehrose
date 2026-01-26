@@ -1,11 +1,10 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub! 
 ![Gif](./assets/animations/manDev.gif)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=imehrose&label=Profile%20views&color=0e75b6&style=flat%22" alt="imehrose" /></p>
 
-💻 Senior Software Engineer | Frontend-Focused MERN Developer | High-Performance & Scalable App Development | Open to Global Opportunities
+💻 Senior Software Engineer | High-Performance & Scalable SaaS App Development | Open to Global Opportunities
 
-Welcome to my GitHub! 
 I’m a Senior Software Engineer with hands-on experience building modern, scalable, and user-focused web applications using (MERN) React, Next.js, Node.js, Express, and MongoDB.
 
 I specialise in developing clean, optimised, and production ready solutions from interactive frontends to robust backend architectures for clients across UAE, Qatar, and remote markets.
