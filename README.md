@@ -1,7 +1,7 @@
 ## Hi there 👋 Welcome to my GitHub! 
-![Gif](./assets/animations/manDev.gif)
+<!-- ![Gif](./assets/animations/manDev.gif) -->
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=imehrose&label=Profile%20views&color=0e75b6&style=flat%22" alt="imehrose" /></p>
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=imehrose&label=Profile%20views&color=0e75b6&style=flat%22" alt="imehrose" /></p> -->
 
 💻 Senior Software Engineer | High-Performance & Scalable SaaS App Development | Open to Global Opportunities
 
