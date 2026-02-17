@@ -1,4 +1,5 @@
-## Hi there 👋 Welcome to my GitHub! This is where I bring ideas to life through code—feel free to explore!
+## Hi there 👋 Welcome to my GitHub! <br />
+This is where I bring ideas to life through code!
 <!-- ![Gif](./assets/animations/manDev.gif) -->
 
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=imehrose&label=Profile%20views&color=0e75b6&style=flat%22" alt="imehrose" /></p> -->
