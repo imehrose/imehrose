@@ -8,11 +8,11 @@ Senior Software Engineer specializing in high-performance, scalable SaaS applica
 
 I’m a Senior Software Engineer with hands-on experience building modern, scalable, and user-focused web applications using (MERN) React, Next.js, Node.js, Express, and MongoDB. -->
 
-🛠️ Tech Stack
-Frontend: React, Next.js
-Backend: Node.js, Express
-Database:	MongoDB	 
-DevOps: CI/CD, Docker
+🛠️ Tech Stack <br />
+Frontend: React, Next.js <br />
+Backend: Node.js, Express <br />
+Database:	MongoDB	<br />
+DevOps: CI/CD, Docker <br />
 	
 
 
