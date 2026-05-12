@@ -14,14 +14,24 @@ Backend: Node.js, Express <br />
 Database:	MongoDB	<br />
 DevOps: CI/CD, Docker <br />
 	
+What I work on
+• AI-powered SaaS platforms
+• AI workflow automation for businesses
+• LLM integrations and AI agents
+• Modern web applications (React / Next.js / Node.js)
+• Scalable backend systems and APIs
+• Product architecture for startups and internal tools
 
+My approach
+AI projects fail when they focus only on technology.
+Successful AI systems start with clear workflows, real business problems, and measurable outcomes.
 
-What I Deliver: <br />
+<!-- What I Deliver: <br />
 • High-Performance Frontends – Optimized React & Next.js applications with exceptional UX <br />
 • Scalable APIs – Robust Node.js & Express architectures handling high-throughput workloads <br />
 • Enterprise Security – JWT, RBAC, multi-tenant authentication systems <br />
 • Database Excellence – MongoDB schema design, indexing strategies, and query optimization <br />
-• Production Quality – Automated testing, CI/CD pipelines, and engineering best practices <br />
+• Production Quality – Automated testing, CI/CD pipelines, and engineering best practices <br /> -->
 
 Experience <br />
 Built and deployed solutions for clients across UAE, Qatar, and global remote markets — from greenfield SaaS products to legacy system modernization.
